@@ -1,5 +1,5 @@
 # Chart Selection Justification
-**Dashboard:** Retail Sales Command Center  
+**Dashboard:** Retail Executive Dashboard  
 
 ---
 
